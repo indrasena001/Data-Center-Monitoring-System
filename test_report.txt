@@ -1,0 +1,15 @@
+System Test Report - 2025-12-21T22:42:08.082783
+🔍 Running Full System Test...
+✅ Database file found.
+✅ Loaded 100 records from system_log.
+✅ Column check passed.
+✅ No missing values detected.
+✅ All system metrics within valid range (0–100).
+===== Test Summary =====
+Total Records: 100
+Missing Values: 0
+Invalid CPU Records: 0
+Invalid Memory Records: 0
+Invalid Disk Records: 0
+
+🟢 System validation complete.

@@ -1,0 +1,13 @@
+**System Summary**
+
+Total Records: 100
+
+Average CPU Usage: 47.53%
+
+Maximum CPU Usage: 89.5
+
+Network DOWN count: 0
+
+Top 3 CPU Peaks: [89.5, 86.8, 86.6]
+
+⚠️ ALERT: 0 records exceeded 90% CPU usage.
